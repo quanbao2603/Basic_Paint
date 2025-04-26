@@ -1,0 +1,30 @@
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\bin\Debug\Custom_Paint.exe.config
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\bin\Debug\Custom_Paint.exe
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\bin\Debug\Custom_Paint.pdb
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\obj\Debug\Custom_Paint.csproj.AssemblyReference.cache
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\obj\Debug\Custom_Paint.Form1.resources
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\obj\Debug\Custom_Paint.Properties.Resources.resources
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\obj\Debug\Custom_Paint.csproj.GenerateResource.cache
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\obj\Debug\Custom_Paint.csproj.CoreCompileInputs.cache
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\obj\Debug\Custom_Paint.exe
+D:\Nguyễn Quân Bảo\HOC KI IV\Winform\Custom_Paint\obj\Debug\Custom_Paint.pdb
+D:\Winform\Custom_Paint\bin\Debug\Custom_Paint.exe.config
+D:\Winform\Custom_Paint\bin\Debug\Custom_Paint.exe
+D:\Winform\Custom_Paint\bin\Debug\Custom_Paint.pdb
+D:\Winform\Custom_Paint\obj\Debug\Custom_Paint.csproj.AssemblyReference.cache
+D:\Winform\Custom_Paint\obj\Debug\Custom_Paint.Form1.resources
+D:\Winform\Custom_Paint\obj\Debug\Custom_Paint.Properties.Resources.resources
+D:\Winform\Custom_Paint\obj\Debug\Custom_Paint.csproj.GenerateResource.cache
+D:\Winform\Custom_Paint\obj\Debug\Custom_Paint.csproj.CoreCompileInputs.cache
+D:\Winform\Custom_Paint\obj\Debug\Custom_Paint.exe
+D:\Winform\Custom_Paint\obj\Debug\Custom_Paint.pdb
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\bin\Debug\Custom_Paint.exe.config
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\bin\Debug\Custom_Paint.exe
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\bin\Debug\Custom_Paint.pdb
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\obj\Debug\Custom_Paint.csproj.AssemblyReference.cache
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\obj\Debug\Custom_Paint.Form1.resources
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\obj\Debug\Custom_Paint.Properties.Resources.resources
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\obj\Debug\Custom_Paint.csproj.GenerateResource.cache
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\obj\Debug\Custom_Paint.csproj.CoreCompileInputs.cache
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\obj\Debug\Custom_Paint.exe
+D:\Nguyễn Quân Bảo\HOC KI IV\2 - Lập trình trên Window\Custom_Paint\obj\Debug\Custom_Paint.pdb
